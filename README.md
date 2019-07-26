@@ -1,5 +1,5 @@
 # raha-chatbot
-Raha is a simple chatbot based on RASA NLU and RASA Core. Raha composed of two parts. one of them is it's server and the other one is a simple android app. The server is written by Python and android app is written by React-Native. Raha was my major project when I was studying bachelor of science in computer science at Ferdowsi University of Mashhad and I develop it in 2019.
+Raha is a simple chatbot based on RASA NLU and RASA Core. Raha composed of two parts. Raha acts like a virtual doctor. However, it is a friend when you need a friend. The server is written by Python. Raha was my major project when I was studying bachelor of science in computer science at Ferdowsi University of Mashhad and I develop it in 2019.
 
 # How to run
 
@@ -9,13 +9,10 @@ Raha is a simple chatbot based on RASA NLU and RASA Core. Raha composed of two p
 4. edit action.py file and add your Apimedic's username and password
 5. run the following command: python -m rasa_core_sdk.endpoint --actions actions
 6. run the following command: python server.py
-7. back and then cd to mobileBot folder
-8. run the following command: npm install
-9. run your android emulator
-10. tun the following command: react-native run-android
+7. test the server using Postman with the following URL: localhost:1000/?test=you_message
+8. Also, you can run test.py and have a conversation with Raha
 
 # What I have used
 
-- gifted-chat for react-native
 - Apimedic
 - RASA Core and NLU
