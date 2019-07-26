@@ -13,8 +13,8 @@ import similarity
 i=0
 symptoms =[]
 deseases = []
-username = "e6HPc_GMAIL_COM_AUT"
-password = "Zw23DqHy6a5Q4Rzj8"
+username = "Your ApiMedic username"
+password = "Your ApiMedic password"
 authUrl = "https://authservice.priaid.ch/login"
 healthUrl = "https://healthservice.priaid.ch"
 language = "en-gb"
