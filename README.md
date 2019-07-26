@@ -16,3 +16,4 @@ Raha is a simple chatbot based on RASA NLU and RASA Core. Raha acts like a virtu
 
 - Apimedic
 - RASA Core and NLU
+- Smalltalk data for RASA
