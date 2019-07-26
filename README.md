@@ -1,5 +1,5 @@
 # raha-chatbot
-Raha is a simple chatbot based on RASA NLU and RASA Core. Raha composed of two parts. Raha acts like a virtual doctor. However, it is a friend when you need a friend. The server is written by Python. Raha was my major project when I was studying bachelor of science in computer science at Ferdowsi University of Mashhad and I develop it in 2019.
+Raha is a simple chatbot based on RASA NLU and RASA Core. Raha acts like a virtual doctor. However, it is a friend when you need a friend. The server is written by Python. Raha was my major project when I was studying bachelor of science in computer science at Ferdowsi University of Mashhad and I developed it in 2019.
 
 # How to run
 
