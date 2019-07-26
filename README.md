@@ -11,3 +11,9 @@ Raha is a simple chatbot based on RASA NLU and RASA Core. Raha composed of two p
 6. back and then cd to mobileBot folder
 9. run your android emulator
 7. tun the following command: react-native run-android
+
+# What I have used
+
+- gifted-chat for react-native
+- Apimedic
+- RASA Core and NLU
